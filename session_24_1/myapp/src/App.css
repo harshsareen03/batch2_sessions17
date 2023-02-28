@@ -1,0 +1,12 @@
+body{
+  margin: 0px;
+}
+.login-form{
+
+  position: relative;
+  margin-top: 95px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-left: 250px;
+  border: 1px black solid;
+}
